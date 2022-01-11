@@ -2,7 +2,7 @@
  * macro.h
  *
  *  Created on: 16 сент. 2021 г.
- *      Author: TMedica
+ *      Author: Alexandr
  */
 
 #ifndef INC_MACRO_H_

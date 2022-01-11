@@ -2,7 +2,7 @@
  * DS2482.c
  *
  *  Created on: 4 нояб. 2021 г.
- *      Author: TMedica
+ *      Author: Alexandr
  */
 
 

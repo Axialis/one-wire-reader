@@ -2,7 +2,7 @@
  * DS2482.h
  *
  *  Created on: 4 нояб. 2021 г.
- *      Author: TMedica
+ *      Author: Alexandr
  */
 
 #ifndef INC_DS2482_H_
